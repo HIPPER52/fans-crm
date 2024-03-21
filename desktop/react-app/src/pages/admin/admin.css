@@ -1,0 +1,9 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+}
